@@ -1,6 +1,4 @@
-## Hi there 👋, I am Mengyuan (Jessy) Ding.
-
-# Mengyuan "Jessy" Ding
+# Hi there 👋, I am Mengyuan (Jessy) Ding.
 
 ## AI Systems · Research Engineering · Machine Learning
 
