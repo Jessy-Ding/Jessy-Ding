@@ -16,7 +16,7 @@ My current interests focus on:
 - human-in-the-loop AI systems
 - reproducible ML workflows
 
-Biomedical and neuroimaging applications are currently my primary problem domains, but my long-term focus is AI/ML systems and research engineering.
+Biomedical and neuroimaging applications are currently my primary problem domains, and my long-term focus is AI/ML systems and research engineering.
 
 ---
 
